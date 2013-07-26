@@ -1,12 +1,11 @@
 <html>
 <head>
 	<title>DOHub: Login</title>
+
 </head>
 <body>
 
 	<center><h1>Login</h1></denter>
-	<br>
-	<br>
 	<form method = "post" id = "formBox" onsubmit="JavaScript: return check();" action = "#">
 		<h4>
 			Username: <br>
