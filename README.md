@@ -11,3 +11,4 @@ Start of development: July 26, 2013
 
 Tasks done:
 > Database created.
+> Login page created.
