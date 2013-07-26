@@ -10,5 +10,7 @@ Start of development: July 26, 2013
 ----------
 
 Tasks done:
-> Database created.
-> Login page created.
+~ Database created.
+~ Login page created.
+~ Bootstrap was incorporated.
+~ Assets folder created.
