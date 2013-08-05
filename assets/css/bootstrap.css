@@ -650,6 +650,14 @@ a:focus {
   clear: both;
 }
 
+<<<<<<< HEAD
+=======
+
+.input{
+  padding-left: 20px;
+}
+
+>>>>>>> Added Necessary Files
 p {
   margin: 0 0 10px;
 }
@@ -734,6 +742,30 @@ a.text-success:focus {
   text-align: center;
 }
 
+<<<<<<< HEAD
+=======
+.maincontainer {
+  width: 900px;
+  padding-top: 20px;
+  margin:0 auto;
+}
+.navbar-fixed-top
+{ /*text-align: center;
+  padding-top: 50px;
+  padding-bottom:50px;
+  background-color: #128f76; 
+  font-size: 50px;
+  color: white;
+  */
+  top: 0;
+  
+
+}
+
+
+
+
+>>>>>>> Added Necessary Files
 h1,
 h2,
 h3,
@@ -6849,3 +6881,22 @@ legend {
 .affix {
   position: fixed;
 }
+<<<<<<< HEAD
+=======
+
+
+.leftmenu
+{
+  position:fixed;
+
+}
+
+.rightside
+{
+  float:right;
+}
+
+.heightextention {
+  height:65px;
+}
+>>>>>>> Added Necessary Files

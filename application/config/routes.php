@@ -40,7 +40,13 @@
 
 $route['default_controller'] = "welcome";
 $route['404_override'] = '';
+/*<<<<<<< HEAD
 
+=======*/
+$route['login'] = 'login';
+$route['Admin'] = 'view_controller/MPAdmin';
+$route['DO'] = 'view_controller/MPDOfficer';
+//>>>>>>> Added Necessary Files
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */

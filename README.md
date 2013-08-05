@@ -14,3 +14,12 @@ Tasks done:
 ~ Login page created.
 ~ Bootstrap was incorporated.
 ~ Assets folder created.
+<<<<<<< HEAD
+=======
+
+07/29/2013
+----------
+
+Tasks done:
+
+>>>>>>> Added Necessary Files

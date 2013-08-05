@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 RewriteEngine on
 
 RewriteRule ^(.+)$ /index.php/$1
+=======
+Deny from all
+>>>>>>> Added Necessary Files

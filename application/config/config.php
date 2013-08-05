@@ -14,7 +14,11 @@
 | path to your installation.
 |
 */
+//<<<<<<< HEAD
 $config['base_url']	= '';
+//=======
+$config['base_url']	= 'http://localhost/';
+//>>>>>>> Added Necessary Files
 
 /*
 |--------------------------------------------------------------------------
@@ -357,7 +361,10 @@ $config['rewrite_short_tags'] = FALSE;
 */
 $config['proxy_ips'] = '';
 
+//<<<<<<< HEAD
 $config['base_url'] = "URL";
+//
+//>>>>>>> Added Necessary Files
 
 
 /* End of file config.php */
